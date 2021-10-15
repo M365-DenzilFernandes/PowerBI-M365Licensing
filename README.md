@@ -10,7 +10,7 @@ Sample PBIX Reports for analyzing usage and consumption of M365 Licenses
   * Request Example GET https://graph.microsoft.com/v1.0/subscribedSkus/ to a csv file.
   * Source docs https://docs.microsoft.com/en-us/graph/api/subscribedsku-get?view=graph-rest-1.0&tabs=http
 
-## Use the Sample Dashboard to build on. 
+## Use the Sample Dashboard to build from. 
   * Sample PBIX Report https://github.com/M365-DenzilFernandes/PowerBI-M365Licensing/raw/main/Microsoft365-Licensing-v3.0.pbix
 
 
