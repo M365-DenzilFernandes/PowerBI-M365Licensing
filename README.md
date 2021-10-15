@@ -12,6 +12,7 @@ Sample PBIX Reports for analyzing usage and consumption of M365 Licenses
 
 ## Use the Sample Dashboard to build from. 
   * Sample PBIX Report https://github.com/M365-DenzilFernandes/PowerBI-M365Licensing/raw/main/Microsoft365-Licensing-v3.0.pbix
+  * Update the Queries (Use Advanced Editor to change the path to your SharePoint or OneDrive location
 
 
 <img src="https://github.com/M365-DenzilFernandes/PowerBI-M365Licensing/blob/main/PowerBI-M365Licensing-2.png"  style="max-width:100%;">
