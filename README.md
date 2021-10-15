@@ -11,7 +11,7 @@ Import the Sample Power Automate Flow - Requires Premium Connector
   * Source docs https://docs.microsoft.com/en-us/graph/api/subscribedsku-get?view=graph-rest-1.0&tabs=http
 
 Use the Sample Dashboard to build on. 
-  ** Sample PBIX Report https://github.com/M365-DenzilFernandes/PowerBI-M365Licensing/raw/main/Microsoft365-Licensing-v3.0.pbix
+  * Sample PBIX Report https://github.com/M365-DenzilFernandes/PowerBI-M365Licensing/raw/main/Microsoft365-Licensing-v3.0.pbix
 
 
 <img src="https://github.com/M365-DenzilFernandes/PowerBI-M365Licensing/blob/main/PowerBI-M365Licensing-2.png"  style="max-width:100%;">
